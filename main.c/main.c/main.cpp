@@ -3,5 +3,8 @@
 
 int main()
 {
-	printf("Hello world!");
+	int c;
+	printf("Hello world!\n");
+	scanf("%c", &c);
+	
 }
