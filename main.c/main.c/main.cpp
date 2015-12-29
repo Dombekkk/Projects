@@ -4,6 +4,6 @@
 int main()
 {
 	int c;
-	printf("Czesc!");
+	printf("Czesc!, BlaBlaBla");
 	
 }
