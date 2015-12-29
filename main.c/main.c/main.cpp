@@ -4,7 +4,6 @@
 int main()
 {
 	int c;
-	printf("Hello world!\n");
-	scanf("%c", &c);
+	printf("Czesc!");
 	
 }
